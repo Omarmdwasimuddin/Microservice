@@ -6,7 +6,7 @@
 #### Class-03: [NestJS Microservices with TCP Transport](https://github.com/Omarmdwasimuddin/TCP-Project)
 #### Class-04: [gRPC Microservices with NestJS and Nx](https://github.com/Omarmdwasimuddin/gRPC-Microservice)
 #### Class-05: [Service Discovery](https://github.com/Omarmdwasimuddin/Service-Discovery)
-#### Class-06: []()
+#### Class-06: [Consul Service Discovery](https://github.com/Omarmdwasimuddin/Consul-Service-Discovery)
 #### Class-07: []()
 #### Class-08: []()
 #### Class-09: []()
