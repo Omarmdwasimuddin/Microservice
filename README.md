@@ -7,7 +7,7 @@
 #### Class-04: [gRPC Microservices with NestJS and Nx (Project)](https://github.com/Omarmdwasimuddin/gRPC-Microservice)
 #### Class-05: [Service Discovery](https://github.com/Omarmdwasimuddin/Service-Discovery)
 #### Class-06: [Consul Service Discovery (Project)](https://github.com/Omarmdwasimuddin/Consul-Service-Discovery)
-#### Class-07: []()
+#### Class-07: [](https://github.com/Omarmdwasimuddin/NestJS-Hybrid-Application)
 #### Class-08: []()
 #### Class-09: []()
 #### Class-10: []()
