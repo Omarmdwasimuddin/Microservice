@@ -8,9 +8,13 @@
 #### Class-05: [Service Discovery](https://github.com/Omarmdwasimuddin/Service-Discovery)
 #### Class-06: [Consul Service Discovery (Project)](https://github.com/Omarmdwasimuddin/Consul-Service-Discovery)
 #### Class-07: [NestJS Hybrid Application (REST API + TCP Microservice)](https://github.com/Omarmdwasimuddin/NestJS-Hybrid-Application)
-#### Class-08: [](https://github.com/Omarmdwasimuddin/NestJS-Microservice-Kafka)
-#### Class-09: []()
+#### Class-08: []()
+#### Class-09: [NestJS Microservices with Kafka](https://github.com/Omarmdwasimuddin/NestJS-Microservice-Kafka)
 #### Class-10: []()
+#### Class-11: []()
+#### Class-12: []()
+#### Class-13: []()
+#### Class-14: []()
 
 ##
 
