@@ -10,7 +10,7 @@
 #### Class-07: [NestJS Hybrid Application (REST API + TCP Microservice)](https://github.com/Omarmdwasimuddin/NestJS-Hybrid-Application)
 #### Class-08: [Apache Kafka (concept)](https://github.com/Omarmdwasimuddin/NestJS-Kafka)
 #### Class-09: [NestJS Microservices with Kafka (project)](https://github.com/Omarmdwasimuddin/NestJS-Microservice-Kafka)
-#### Class-10: []()
+#### Class-10: [Dead Letter Queue (DLQ) — Kafka](https://github.com/Omarmdwasimuddin/Dead-Letter-Queue-DLQ-Kafka)
 #### Class-11: []()
 #### Class-12: []()
 #### Class-13: []()
