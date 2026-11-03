@@ -12,9 +12,15 @@
 #### Class-09: [NestJS Microservices with Kafka (project)](https://github.com/Omarmdwasimuddin/NestJS-Microservice-Kafka)
 #### Class-10: [Dead Letter Queue (DLQ) — Kafka](https://github.com/Omarmdwasimuddin/Dead-Letter-Queue-DLQ-Kafka)
 #### Class-11: [NestJS Microservices with Kafka (Implement Dead Letter Queue (DLQ))](https://github.com/Omarmdwasimuddin/NestJS-Microservice-DLQ)
-#### Class-12: []()
+#### Class-12: [Redis, Cache and Caching Patterns](https://github.com/Omarmdwasimuddin/NestJS-Redis)
 #### Class-13: []()
 #### Class-14: []()
+#### Class-15: []()
+#### Class-16: []()
+#### Class-17: []()
+#### Class-18: []()
+#### Class-19: []()
+#### Class-20: []()
 
 ##
 
